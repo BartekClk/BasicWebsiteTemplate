@@ -1,1 +1,1 @@
-###Basic website template with Bootstrap and JQuery included
+# Basic website template with Bootstrap and JQuery included
